@@ -32,7 +32,7 @@
 [![Luca Verdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdiluca&show_icons=true&theme=yeblu)](https://github.com/verdiluca/github-readme-stats)
 
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=verdiluca&repo=github-readme-stats)](https://github.com/verdiluca/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=verdiluca&repo=github-readme-stats)
 
 <br />
 
