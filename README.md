@@ -33,10 +33,10 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdiluca)](https://github.com/verdiluca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdiluca&langs_count=2)](https://github.com/verdiluca/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=verdiluca)](https://github.com/verdiluca/github-readme-stats)
+
 
 
 
