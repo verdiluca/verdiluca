@@ -32,6 +32,9 @@
 [![Luca Verdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdiluca&show_icons=true&theme=yeblu)](https://github.com/verdiluca/github-readme-stats)
 
 <br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=verdiluca&repo=github-readme-stats&theme=yeblu)](https://github.com/verdiluca/github-readme-stats)
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdiluca&langs_count=2)](https://github.com/verdiluca/github-readme-stats)
 
