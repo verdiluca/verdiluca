@@ -28,7 +28,7 @@
 ---
 
 </details>
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]:
-[reactplaylist]:
+[webdevplaylist]: ""
+[jsplaylist]: ""
+[cssplaylist]: ""
+[reactplaylist]: ""
