@@ -15,16 +15,16 @@
 
 ### Languages and Tools:
 
-● C
-● C++
-● HTML 5
-● CSS 3
-● Git
-● GitHub
-● Atom
-● Mbed Studio
-● Visual Studio Code
-● Terminal
+● C <br />
+● C++ <br />
+● HTML 5 <br />
+● CSS 3 <br />
+● GitHub <br />
+● Atom <br />
+● Mbed Studio <br />
+● Visual Studio Code 
+
+
 <br />
 <br />
 
