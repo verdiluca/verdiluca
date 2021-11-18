@@ -17,6 +17,7 @@
 
 ● C <br />
 ● C++ <br />
+● Lua <br />
 ● HTML 5 <br />
 ● CSS 3 <br />
 ● GitHub <br />
