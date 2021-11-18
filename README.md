@@ -11,6 +11,9 @@
 - ⚡ Fun fact: I love cars and technology
 
 ---
+[![Luca Verdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdiluca&show_icons=true&theme=yeblu)](https://github.com/verdiluca/github-readme-stats)
+---
+
 <br />
 
 ### 👨🏼‍💻 Languages and Tools:
@@ -25,12 +28,10 @@
 ● Mbed Studio <br />
 ● Visual Studio Code 
 
----
 <br />
 
-[![Luca Verdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdiluca&show_icons=true&theme=yeblu)](https://github.com/verdiluca/github-readme-stats)
-
 ---
+
 
 
 
