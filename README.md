@@ -6,7 +6,7 @@
 ## I'm a Student, Maker and Developer!!
 
 - 📚 I'm a student from I.T.I. G. MARCONI Dalmine
-- 📍 I'm from bergamo, in italy
+- 📍 I'm from Bergamo, in Italy
 - 👨🏼‍💻 I love to create and develop projects with my project mates
 - 🥅 2021 and 2022 Goals: Finish two huge projects under development 
 - ⚡ Fun fact: I love cars and technology
