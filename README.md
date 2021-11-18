@@ -10,7 +10,7 @@
 - 🥅 2021 and 2022 Goals: Finish two huge projects under development 
 - ⚡ Fun fact: I love cars and technology
 
-
+---
 <br />
 
 ### 👨🏼‍💻 Languages and Tools:
@@ -25,9 +25,8 @@
 ● Mbed Studio <br />
 ● Visual Studio Code 
 
-
-<br />
 ---
+<br />
 
 [![Luca Verdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdiluca&show_icons=true&theme=yeblu)](https://github.com/verdiluca/github-readme-stats)
 
