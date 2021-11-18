@@ -2,6 +2,7 @@
 
 ---
 
+
 ## I'm a Student, Maker and Developer!!
 
 - 📚 I'm a student from I.T.I. G. MARCONI Dalmine
@@ -16,7 +17,7 @@
 
 ---
 
-<br />
+
 
 ### 👨🏼‍💻 Languages and Tools:
 
@@ -30,7 +31,7 @@
 ● Mbed Studio <br />
 ● Visual Studio Code 
 
-<br />
+
 
 ---
 
