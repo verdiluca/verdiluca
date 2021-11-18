@@ -29,7 +29,12 @@
 <br />
 ---
 
-[![Luca Verdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdiluca&show_icons=true&theme=gradient)](https://github.com/verdiluca/github-readme-stats)
+[![Luca Verdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdiluca&show_icons=true&theme=yeblu)](https://github.com/verdiluca/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdiluca)](https://github.com/verdiluca/github-readme-stats)
+
 
 
 
